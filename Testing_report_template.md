@@ -20,6 +20,7 @@
 
 1. 0/1 успешных/не успешных тестов
 2. Ссылки на баг-репорты
+    - https://github.com/albonigrum/NetologyJavaHT2.2/issues/1
 
 ## Общие рекомендации
 
